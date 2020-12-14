@@ -1,0 +1,18 @@
+.root{
+    -fx-font-size: 16pt ;
+    -fx-font-weight: bold;
+    -fx-font-family: "Helvetica Neue Light";
+    -fx-base: #D6D6D6;
+    -fx-background: grey;
+
+}
+
+.button {
+    -fx-background-radius: 0;
+    -fx-font-family: "Helvetica Neue Light";
+    -fx-font-size: 21px;
+}
+
+.button:pressed {
+    -fx-background-color: #B2B2B2;
+}
